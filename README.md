@@ -1,2 +1,2 @@
-# Notepad++-on-Mac
+# NPP-on-Mac
 Notepad++ for macs
