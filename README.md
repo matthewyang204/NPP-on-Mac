@@ -9,6 +9,7 @@ xattr -d com.apple.quarantine /Applications/Notepad++.app
 in the terminal because since this app is not Apple-signed, it is quarantined. This command bypasses the quarantine, taking the app out of the quarantine.
 
 To update:
+
 Click the question mark menu button
 
 Click the Update Notepad++ button in the menu that pops up
